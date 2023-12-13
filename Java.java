@@ -3,6 +3,7 @@ public class Java {
     System.out.println("This is my first Java file in Github");
     System.out.println("I am an employee");
     System.out.println("I am a Software Developer");
+    System.out.println("I am a Fresher");
       }
 }
    
